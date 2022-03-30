@@ -1,0 +1,19 @@
+/* Write your CSS here */
+li {
+  list-style-type: none;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  height: 40px;
+  width: 150px;
+  background-color: transparent;
+  border-radius: 2px;
+  border: 1px solid white;
+  margin: 2%;
+  color: #f4f4f4;
+  font-weight: bold;
+}
